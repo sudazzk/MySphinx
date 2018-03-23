@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["helloworld","index"],envversion:53,filenames:["helloworld.rst","index.rst"],objects:{},objnames:{},objtypes:{},terms:{content:1,hello:1,index:1,modul:1,page:1,search:1,world:1},titles:["Hello world","Welcome to MySphinx\u2019s documentation!"],titleterms:{document:1,hello:0,indic:1,mysphinx:1,tabl:1,welcom:1,world:0}})
